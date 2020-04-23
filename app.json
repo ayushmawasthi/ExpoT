@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "myproject",
-    "slug": "myproject",
+    "name": "My Notes",
+    "slug": "my-notes",
     "platforms": [
       "ios",
       "android",
@@ -23,6 +23,7 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": ""
   }
 }
